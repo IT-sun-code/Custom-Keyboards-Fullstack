@@ -1,0 +1,12 @@
+.keyboardMainSlide {
+  position: fixed;
+  top: 40px;
+  right: 0;
+  width: 918px;
+  z-index: -2;
+  transition: opacity 1.5s ease;
+}
+
+.keyboardMainSlide.hidden {
+  opacity: 0;
+}

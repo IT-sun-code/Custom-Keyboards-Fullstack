@@ -1,0 +1,42 @@
+.catalog {
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter {
+  display: inherit;
+  align-items: inherit;
+}
+
+.reset,
+.desc,
+.asc {
+  opacity: 50%;
+  margin-right: 8px;
+  width: 24px;
+  transition-duration: 0.4s;
+  animation: ease-in-out;
+}
+
+.desc {
+  transform: rotate(180deg);
+}
+
+.reset:hover,
+.desc:hover,
+.asc:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.active {
+  opacity: 1;
+}
+
+.select {
+  padding: 6px;
+  border-radius: 15px;
+  width: 300px;
+}

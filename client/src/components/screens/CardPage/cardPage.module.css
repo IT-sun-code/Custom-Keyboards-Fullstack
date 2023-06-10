@@ -1,0 +1,17 @@
+.arrows {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  transform: rotate(-90deg);
+}
+
+.right {
+  transform: rotate(90deg);
+}
+
+.left,
+.right {
+  height: 52px;
+}

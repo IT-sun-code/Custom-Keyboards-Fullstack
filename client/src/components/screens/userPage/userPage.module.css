@@ -1,0 +1,10 @@
+.userData {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 100px 0 80px 0;
+}
+
+.orderHeading {
+  margin-bottom: 40px;
+}

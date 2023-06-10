@@ -1,0 +1,44 @@
+.button {
+  font-size: 32px;
+  padding: 12px 68px;
+  border-radius: 30px;
+}
+
+.disabled {
+  opacity: 30%;
+  cursor: not-allowed !important;
+  border: 4px solid gray;
+}
+
+.buttonCtvBlack {
+  border: 4px solid black;
+}
+
+.buttonCtvBlack:hover {
+  background-color: black;
+  color: white;
+  opacity: 1;
+}
+
+.buttonCtvBlue,
+.buttonCtvBlueOrder,
+.ctvBlueSubmit {
+  border: 4px solid #20afff;
+}
+
+.buttonCtvBlue:hover,
+.buttonCtvBlueOrder:hover,
+.ctvBlueSubmit:hover {
+  background-color: #20afff;
+  color: white;
+  opacity: 1;
+}
+
+.buttonCtvBlueOrder,
+.ctvBlueSubmit {
+  width: 100%;
+}
+
+.ctvBlueSubmit {
+  margin-bottom: 10px;
+}

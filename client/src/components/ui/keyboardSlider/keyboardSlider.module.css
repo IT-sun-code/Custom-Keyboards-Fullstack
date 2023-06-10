@@ -1,0 +1,14 @@
+.block {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text {
+  width: 650px;
+}
+
+.questions {
+  font-size: 32px;
+}

@@ -1,0 +1,318 @@
+[{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b3e"
+  },
+  "title": "Клавиатура Ducky One 3 SF White",
+  "price": 4700,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard1.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide3.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide4.jpg"
+  ],
+  "description": "One 3 — новая глава в истории Ducky. Клавиатура порадует обновленным корпусом, возможностью менять переключатели без паяльника, пятью слоями для настройки, стоковой виброизоляцией и это — не конец. ",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.389Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b40"
+  },
+  "title": "Клавиатура Ducky One 3 Fuji",
+  "price": 4999,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard3.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide4.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide3.jpg"
+  ],
+  "description": "Функция Full N-key Rollover (NKRO) позволяет нажимать одновременно неограниченное количество клавиш. Удобно в игре, когда нужно прожимать многокнопочные комбинации. Doubleshot PBT кейкапы с отлитыми из пластика символами — неубиваемые, приятные на ощупь и при нажатии издают мягкий глухой звук. ",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b42"
+  },
+  "title": "Клавиатура Varmilo Vintage Days CMYK V2 87",
+  "price": 5000,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard5.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide3.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide4.jpg"
+  ],
+  "description": "Сдержанный дизайн Vintage days навеивает воспоминания об ЭВМ. Почувствуйте себя работником НИИ в секретной лаборатории или просто порефлексируйте о прошлом вместе с нами. USB Type-C порт вместо Mini-USB спрятан в центре под корпусом, а на самой клавиатуре есть центральная и две боковые канавки под кабель.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b41"
+  },
+  "title": "Клавиатура Mistel Barocco MD770RGB Black",
+  "price": 5200,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard4.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide3.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide4.jpg"
+  ],
+  "description": "Mistel — тайваньская компания, которая славится своими сплитами. Сплит — это эргономический форм-фактор, фишка которого в разделении клавиатуры на две отдельные части. Такой подход позволяет расположить запястья анатомически ровно, благодаря чему руки меньше устают при работе.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b3f"
+  },
+  "title": "Клавиатура Varmilo Minilo Eucalyptus VXH67 Hot-Swap",
+  "price": 4999,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard2.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide3.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide4.jpg"
+  ],
+  "description": "Varmilo — яркая звезда на небосводе китайских производителей клавиатур. Смазанные стабилизаторы, ручная сборка, эстетичный дизайн — каждая клавиатура Varmilo как произведение искусства. ",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b45"
+  },
+  "title": "Клавиатура Varmilo VA21M Sea Melody",
+  "price": 2700,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard8.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard8Slides/keyboard8Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard8Slides/keyboard8Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard8Slides/keyboard8Slide3.jpg"
+  ],
+  "description": "Отдельный цифровой блок в дизайне Sea Melody. Толстые и качественные PBT-кейкапы, шумопоглощающая прокладка, смазанные на заводе стабилизаторы. Проводной. ",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b46"
+  },
+  "title": "Клавиатура Leopold FC210TP PD",
+  "price": 2300,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard9.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard9Slides/keyboard9Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard9Slides/keyboard9Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard9Slides/keyboard9Slide3.jpg"
+  ],
+  "description": "Leopold — производитель, который ставит качество и надежность выше всего остального. Клавиатуры отлично собраны и подойдут как заядлым геймерам, так и тем, кто печатает много и долго.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b47"
+  },
+  "title": "Клавиша ZOMO «Лапка Панды»",
+  "price": 1400,
+  "category": "keycap",
+  "image": "/images/keycaps/keycapsPreview/keycap1.jpg",
+  "slides": [
+    "/images/keycaps/keycapsSlides/keycap1Slides/keycap1Slide1.jpg",
+    "/images/keycaps/keycapsSlides/keycap1Slides/keycap1Slide2.jpg",
+    "/images/keycaps/keycapsSlides/keycap1Slides/keycap1Slide3.jpg"
+  ],
+  "description": "Клавиша в форме лапки панды с силиконовыми подушечками и силиконовым чехлом. Корпус из ABS-пластика. Милейшее дополнение к любой клавиатуре.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b48"
+  },
+  "title": "Клавиша ZOMO «Butterfly»",
+  "price": 1600,
+  "category": "keycap",
+  "image": "/images/keycaps/keycapsPreview/keycap2.jpg",
+  "slides": [
+    "/images/keycaps/keycapsSlides/keycap2Slides/keycap2Slide1.jpg"
+  ],
+  "description": "Кейкап изготовлен из алюминия и совместим со всеми Cherry-подобными переключателями — маленький акцент для уникальной клавиатуры.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b49"
+  },
+  "title": "Клавиша ZOMO «Hand of Midas»",
+  "price": 1600,
+  "category": "keycap",
+  "image": "/images/keycaps/keycapsPreview/keycap3.jpg",
+  "slides": [
+    "/images/keycaps/keycapsSlides/keycap2Slides/keycap3Slide1.jpg"
+  ],
+  "description": "Кейкап изготовлен из алюминия и совместим со всеми Cherry-подобными переключателями — маленький акцент для уникальной клавиатуры.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b4a"
+  },
+  "title": "Клавиши Tai-Hao «Rubber Red»",
+  "price": 2999,
+  "category": "keycaps",
+  "image": "/images/keycaps/keycapsPreview/keycap4.jpg",
+  "slides": [
+    "/images/keycaps/keycapsSlides/keycap4Slides/keycap4Slide1.jpg",
+    "/images/keycaps/keycapsSlides/keycap4Slides/keycap4Slide2.jpg",
+    "/images/keycaps/keycapsSlides/keycap4Slides/keycap4Slide3.jpg"
+  ],
+  "description": "Набор «Rubber» от компании Tai-Hao. Материал клавиш: прорезиненный ABS. Кол-во клавиш в наборе: 18. Профиль: OEM. Кириллица: нет. Символы пропускают подсветку!",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b4b"
+  },
+  "title": "Клавиши Tai-Hao «Rubber Sky Blue»",
+  "price": 2999,
+  "category": "keycaps",
+  "image": "/images/keycaps/keycapsPreview/keycap5.jpg",
+  "slides": [
+    "/images/keycaps/keycapsSlides/keycap5Slides/keycap5Slide1.jpg",
+    "/images/keycaps/keycapsSlides/keycap5Slides/keycap5Slide2.jpg",
+    "/images/keycaps/keycapsSlides/keycap5Slides/keycap5Slide3.jpg"
+  ],
+  "description": "18 основных клавиш для любого геймера и не только. Капы выполнены из Double Shot ABS пластика, верхняя часть прорезинена. Кейкапы пропускают подсветку символа.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b4c"
+  },
+  "title": "Клавиши Tai-Hao «Rubber Neon Orange»",
+  "price": 2999,
+  "category": "keycaps",
+  "image": "/images/keycaps/keycapsPreview/keycap6.jpg",
+  "slides": [
+    "/images/keycaps/keycapsSlides/keycap6Slides/keycap6Slide1.jpg",
+    "/images/keycaps/keycapsSlides/keycap6Slides/keycap6Slide2.jpg",
+    "/images/keycaps/keycapsSlides/keycap6Slides/keycap6Slide3.jpg"
+  ],
+  "description": "18 основных клавиш для любого геймера и не только. Капы выполнены из Double Shot ABS пластика, верхняя часть прорезинена. Кейкапы пропускают подсветку символа.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b43"
+  },
+  "title": "Клавиатура Mistel Barocco MD770RGB BT Black",
+  "price": 5500,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard6.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide3.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide4.jpg"
+  ],
+  "description": "Клавиатура имеет RGB подсветку, клавиши выполнены из долговечного Double Shot PBT пластика, а в качестве переключателей используются Cherry MX. Раздельный форм-фактор позволит вам повелевать расположением ваших рук как угодно. Всё ради наилучшей эргономичности.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6481e950ebd7818482308b44"
+  },
+  "title": "Клавиатура Varmilo Numpad Panda VA21M",
+  "price": 2995,
+  "category": "keyboard",
+  "image": "/images/keyboards/keyboardsPreview/keyboard7.jpg",
+  "slides": [
+    "/images/keyboards/keyboardsSlides/keyboard7Slides/keyboard7Slide1.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard7Slides/keyboard7Slide2.jpg",
+    "/images/keyboards/keyboardsSlides/keyboard7Slides/keyboard7Slide3.jpg"
+  ],
+  "description": "Отдельный цифровой блок в дизайне Panda. Толстые и качественные PBT-кейкапы, шумопоглощающая прокладка, смазанные на заводе стабилизаторы. Проводной.",
+  "createdAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-08T14:44:32.390Z"
+  },
+  "__v": 0
+}]

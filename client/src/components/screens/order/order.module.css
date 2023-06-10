@@ -1,0 +1,13 @@
+.orderDate {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.data {
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+  margin-bottom: 10px;
+}

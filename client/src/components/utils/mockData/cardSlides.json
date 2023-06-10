@@ -1,0 +1,285 @@
+[{
+  "image": "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3e"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3e"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3e"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b40"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard1Slides/keyboard1Slide4.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3e"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b40"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b40"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard3Slides/keyboard3Slide4.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b40"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b42"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b42"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b42"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard5Slides/keyboard5Slide4.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b42"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b41"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b41"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b41"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard4Slides/keyboard4Slide4.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b41"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3f"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3f"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3f"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard2Slides/keyboard2Slide4.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b3f"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard8Slides/keyboard8Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b45"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard8Slides/keyboard8Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b45"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard8Slides/keyboard8Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b45"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard9Slides/keyboard9Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b46"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard9Slides/keyboard9Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b46"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard9Slides/keyboard9Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b46"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap1Slides/keycap1Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b47"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap1Slides/keycap1Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b47"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap1Slides/keycap1Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b47"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap2Slides/keycap2Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b48"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap3Slides/keycap3Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b49"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap4Slides/keycap4Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4a"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap4Slides/keycap4Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4a"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap4Slides/keycap4Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4a"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap5Slides/keycap5Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4b"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap5Slides/keycap5Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4b"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap5Slides/keycap5Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4b"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap6Slides/keycap6Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4c"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap6Slides/keycap6Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4c"
+  }
+},
+{
+  "image": "/images/keycaps/keycapsSlides/keycap6Slides/keycap6Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b4c"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b43"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b43"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b43"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard6Slides/keyboard6Slide4.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b43"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard7Slides/keyboard7Slide1.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b44"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard7Slides/keyboard7Slide2.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b44"
+  }
+},
+{
+  "image": "/images/keyboards/keyboardsSlides/keyboard7Slides/keyboard7Slide3.jpg",
+  "cardId": {
+    "$oid": "6481e950ebd7818482308b44"
+  }
+}
+]
+
+
