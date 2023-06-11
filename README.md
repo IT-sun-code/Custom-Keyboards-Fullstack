@@ -5,7 +5,7 @@
 
 1. Первая консоль - перейти в папку сервера cd server
 2. npm install
-3. npm run server
+3. npm run serve
 
 4. Вторая консоль - перейти в папку клиента cd client
 5. yarn install
