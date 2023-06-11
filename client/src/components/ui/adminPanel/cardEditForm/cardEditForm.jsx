@@ -17,6 +17,7 @@ const CardEditForm = ({ cardId, onClose }) => {
     price: "",
     image: "",
     description: "",
+    slides:[]
   };
   //дефолтные значения для слайдов товара
   const clearSlide = {

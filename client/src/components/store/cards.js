@@ -75,6 +75,7 @@ export const createCard = (payload) => async (dispatch) => {
   }
   try {
     const { content } = await CardsService.getAll();
+    console.log(content)
     dispatch(cardsReceved(content));
   } catch (error) {
     dispatch(cardsRequestFailed(error.message));

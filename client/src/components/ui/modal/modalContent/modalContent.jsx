@@ -10,7 +10,7 @@ import EditUserForm from "../../forms/editUserForm";
 import PropTypes from "prop-types";
 import { useDispatch } from "react-redux";
 import { deleteCard } from "../../../store/cards";
-import { deleteCardsSlides } from "../../../store/cardsSlides";
+
 
 export const SuccessModalContent = () => {
   const navigate = useNavigate();
@@ -220,7 +220,6 @@ export const DeletionCardConfirm = ({ deleteData }) => {
         appearance="ctvBlue"
         onClick={() => {
           dispatch(deleteCard(cardId)),
-            dispatch(deleteCardsSlides(cardId, slidesIds));
           onClose();
         }}
       >
@@ -233,25 +232,4 @@ DeletionCardConfirm.propTypes = {
   deleteData: PropTypes.object,
 };
 
-export const DeletionCardSlidesConfirm = ({ deleteData }) => {
-  const dispatch = useDispatch();
-  const { cardId, slidesIds, onClose } = deleteData;
-  return (
-    <>
-      <h2 className={styles.heading}>Удаление элементов</h2>
-      <p className={styles.message}>Вы точно хотите удалить это?</p>
-      <Button
-        appearance="ctvBlue"
-        onClick={() => {
-          dispatch(deleteCardsSlides(cardId, slidesIds));
-          onClose();
-        }}
-      >
-        Удалить
-      </Button>
-    </>
-  );
-};
-DeletionCardSlidesConfirm.propTypes = {
-  deleteData: PropTypes.object,
-};
+

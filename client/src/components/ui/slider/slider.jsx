@@ -22,7 +22,7 @@ const Slider = ({ slides, appearance }) => {
     return (
       <>
         <img
-          src={slides[currentIndex].image}
+          src={slides[currentIndex]}
           alt="slide"
           className={styles.image}
         />

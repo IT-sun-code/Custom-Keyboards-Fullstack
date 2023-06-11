@@ -7,7 +7,7 @@ import { useAuth } from "../../../utils/hooks/useAuth";
 import { useNavigate } from "react-router-dom";
 import styles from "./loginForm.module.css";
 import PropTypes from "prop-types";
-import { loadCardsSlidesList } from "../../../store/cardsSlides";
+
 import { loadFavoritesList } from "../../../store/favorites";
 import { loadBasketList } from "../../../store/basket";
 import { loadOrdersList } from "../../../store/orders";
@@ -86,8 +86,6 @@ const LoginForm = ({ onClose }) => {
       dispatch(loadFavoritesList());
       dispatch(loadBasketList());
       dispatch(loadOrdersList());
-
-      dispatch(loadCardsSlidesList());
       dispatch(loadCardsList());
       navigate("/user");
     } catch (error) {

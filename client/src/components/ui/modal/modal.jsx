@@ -11,7 +11,7 @@ import {
   EditUserContent,
   InDelivery,
   DeletionCardConfirm,
-  DeletionCardSlidesConfirm,
+
 } from "./modalContent";
 
 const Modal = ({
@@ -56,9 +56,7 @@ const Modal = ({
       <InDelivery onClose={onClose} onHandleDelivered={onHandleDelivered} />
     ) : variety === "deleteCard" ? (
       <DeletionCardConfirm deleteData={deleteData} />
-    ) : variety === "deleteCardSlides" ? (
-      <DeletionCardSlidesConfirm deleteData={deleteData} />
-    ) : null
+    ) :  null
   );
 
   return (

@@ -7,7 +7,7 @@ import {
   EditUserContent,
   InDelivery,
   DeletionCardConfirm,
-  DeletionCardSlidesConfirm,
+
 } from "./modalContent";
 
 export {
@@ -19,5 +19,5 @@ export {
   EditUserContent,
   InDelivery,
   DeletionCardConfirm,
-  DeletionCardSlidesConfirm,
+
 };

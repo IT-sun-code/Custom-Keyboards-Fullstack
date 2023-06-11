@@ -20,7 +20,7 @@ import { useDispatch } from "react-redux";
 import { useEffect } from "react";
 
 import { loadCardsList } from "../../store/cards";
-import { loadCardsSlidesList } from "../../store/cardsSlides";
+
 import { loadBasketList } from "../../store/basket";
 import localStorageService from "../../services/localStorageService";
 import { loadOrdersList } from "../../store/orders";
@@ -31,7 +31,6 @@ const Router = () => {
 
   useEffect(() => {
     dispatch(loadCardsList());
-    dispatch(loadCardsSlidesList());
     dispatch(loadBasketList());
     dispatch(loadOrdersList());
     dispatch(loadFavoritesList());

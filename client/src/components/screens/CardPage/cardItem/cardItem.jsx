@@ -14,16 +14,13 @@ import { createBasket } from "../../../store/basket";
 import { changeStatus } from "../../../store/favorites";
 
 const CardItem = ({ slides, card }) => {
+
   const dispatch = useDispatch();
-  const [filteredSlides, setfilteredSlides] = useState([]);
   const { currentUser } = useAuth();
   const { modalVariety, handleModalOpen, handleModalClose, modalOpen } =
     useModal();
 
-  useEffect(() => {
-    const filteredSlides = slides.filter((slide) => slide.cardId == card._id);
-    setfilteredSlides(filteredSlides);
-  }, [slides, card._id]);
+
 
   const { entities: favoriteCards } = useSelector((state) => state.favorites);
   const { handleFavoriteClick } = useFavorites();
@@ -43,13 +40,13 @@ const CardItem = ({ slides, card }) => {
   return (
     <>
       <div className={styles.container}>
-        {filteredSlides.length <= 0 ? (
+        {slides.length <= 0 ? (
           <div className={styles.slide}>
             <Loading />
           </div>
         ) : (
           <div className={styles.slide}>
-            <Slider slides={filteredSlides} appearance={"percentagesLower"} />
+            <Slider slides={slides} appearance={"percentagesLower"} />
           </div>
         )}
 

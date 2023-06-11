@@ -9,10 +9,8 @@ const CardsService = {
   },
   //Получение товара с помощью Id
   getById: async (id) => {
-    const { data } = await httpService.get(cardsEndpoint);
-
-    const cardData = data.content.find((item) => item._id === id);
-    return cardData;
+    const { data } = await httpService.get(cardsEndpoint + id);
+    return data;
   },
   //добавление товара(АДМИН)
   create: async (payload) => {

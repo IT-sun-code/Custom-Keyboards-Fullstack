@@ -1,6 +1,6 @@
 const express = require("express");
 const Cards = require("../models/Cards");
-const CardSlides = require("../models/CardSlides");
+
 const router = express.Router({ mergeParams: true });
 
 router.get("/", async (req, res) => {
@@ -33,17 +33,8 @@ router.post("/", async (req, res) => {
     const newCard = await Cards.create({
       ...req.body,
     });
-    const cardSlides = req.body.slides.map((item) => {
-      const container = {};
 
-      container.image = item;
-      container.cardId = newCard._id;
-
-      return container;
-    });
-    await CardSlides.create(cardSlides);
-
-    res.status(201);
+    res.status(201)
   } catch (e) {
     res.status(500).json({
       message: "На сервере произошла ошибка. Попробуйте позже",

@@ -6,7 +6,7 @@ import localStorageService from "../../services/localStorageService";
 import UserService from "../../services/userService";
 import { useNavigate } from "react-router-dom";
 import config from "../../../../config.json";
-import { loadCardsSlidesList } from "../../store/cardsSlides";
+
 import { loadFavoritesList } from "../../store/favorites";
 import { loadBasketList } from "../../store/basket";
 import { loadOrdersList } from "../../store/orders";
@@ -100,7 +100,6 @@ const AuthProvider = ({ children }) => {
     dispatch(loadBasketList());
     dispatch(loadOrdersList());
 
-    dispatch(loadCardsSlidesList());
     dispatch(loadCardsList());
     navigate("/");
   }
