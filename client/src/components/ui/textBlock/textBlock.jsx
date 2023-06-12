@@ -2,10 +2,16 @@ import styles from "./textBlock.module.css";
 import useModal from "../../utils/hooks/useModal";
 import Modal from "../modal";
 import PropTypes from "prop-types";
+import { useSelector } from "react-redux";
 
 const TextBlock = ({ title, subtitle, description, authData }) => {
   const { modalVariety, handleModalOpen, handleModalClose, modalOpen } =
     useModal();
+  const { entities: orders } = useSelector((state) => state.orders);
+
+  let status = "новичок";
+  if (authData !== undefined && authData !== null)
+    if (orders?.length > 0) status = "продвинутый";
 
   return !authData ? (
     <div className={styles.textBlock}>
@@ -23,7 +29,7 @@ const TextBlock = ({ title, subtitle, description, authData }) => {
           </button>
         </div>
         <p className={styles.subtitleAuth}>
-          <b>Статус:</b> {authData.orders ? "продвинутый" : "новичок"}
+          <b>Статус:</b> {status}
         </p>
         <p className={styles.subtitleAuth}>
           <b>Телефон:</b> {authData.phone}

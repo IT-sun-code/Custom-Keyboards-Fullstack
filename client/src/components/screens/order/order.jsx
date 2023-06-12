@@ -6,7 +6,7 @@ import Button from "../../ui/button";
 import Modal from "../../ui/modal";
 import useModal from "../../utils/hooks/useModal";
 import PropTypes from "prop-types";
-import { changeStatus } from "../../store/orders";
+import { changeStatus, loadOrdersList } from "../../store/orders";
 import { useDispatch } from "react-redux";
 
 const Order = ({ order }) => {
@@ -20,6 +20,7 @@ const Order = ({ order }) => {
 
   const handleDelivered = () => {
     dispatch(changeStatus(order._id));
+    dispatch(loadOrdersList());
     setIsDelivered(true);
   };
 

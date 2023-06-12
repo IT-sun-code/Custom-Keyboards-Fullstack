@@ -18,14 +18,15 @@ const Slider = ({ slides, appearance }) => {
     setCurrentIndex(index);
   };
 
+  let slideValue = null;
+  if (slides[currentIndex].image !== undefined)
+    slideValue = slides[currentIndex].image;
+  else slideValue = slides[currentIndex];
+
   const image = useMemo(() => {
     return (
       <>
-        <img
-          src={slides[currentIndex]}
-          alt="slide"
-          className={styles.image}
-        />
+        <img src={slideValue} alt="slide" className={styles.image} />
       </>
     );
   }, [currentIndex]);
